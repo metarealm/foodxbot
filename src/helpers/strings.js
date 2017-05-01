@@ -1,9 +1,14 @@
 module.exports = {
   queryString: [
-    ''
+    'recipe',
+    'taste',
+    'tasty',
+    'spicy',
+    'recipes'
   ],
   queryStringSubQuery: [
-    ''
+    ' of ',
+    ' food '
   ],
   blockedStrings: [
     ''
