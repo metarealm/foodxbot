@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Twitter bot bootstrap
 
 [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](http://standardjs.com/) [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](http://opensource.org/licenses/MIT) [![HitCount](https://hitt.herokuapp.com/spences10/twitter-bot-bootstrap.svg)](https://github.com/spences10/twitter-bot-bootstrap)
@@ -320,3 +321,6 @@ Credit for the inspiration for this should go to [@amanhimself](https://twitter.
 MIT License
 
 Copyright (c) 2017, Scott Spence. All rights reserved.
+=======
+# foodxbot
+>>>>>>> 9c5d15572af620811cb9a841e6d5ddf6ee01c0fc
